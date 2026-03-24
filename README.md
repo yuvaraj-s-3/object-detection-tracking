@@ -58,8 +58,7 @@ object-detection-tracking/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Yuvaraj/object-detection-tracking.git
-cd object-detection-tracking
+git clone https://github.com/yuvaraj-s-3/object-detection-tracking.git
 ```
 
 ### 2. Install dependencies
